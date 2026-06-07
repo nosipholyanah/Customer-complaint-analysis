@@ -47,4 +47,4 @@ customer-complaint-analysis/
 
 ## Author
 Nosipho Lyanah Sibanda
-[LinkedIn](www.linkedin.com/in/nosipho-lyanah-sibanda-85061a186) | [GitHub](https://github.com/nosipholyanah/)
+[LinkedIn](https://www.linkedin.com/in/nosipho-lyanah-sibanda-85061a186).) | [GitHub](https://github.com/nosipholyanah/)
