@@ -1,0 +1,150 @@
+complaint_id,date_received,customer_id,product_batch_number,complaint_type,number_affected,amount_claimed_rands,status
+1034,2025-01-01,YumChicken,24-11-22-00:19-09,Missing portions ,3,66,Resolved 
+1035,2025-01-01,Burgerhub,24-11-04-00:19-15,Missing portions ,4,88,Resolved 
+1036,2025-01-01,DFC,24-11-13-22:04-04,Missing portions ,2,44,Resolved 
+1037,2025-01-01,IQR,24-12-03-15:03-10,Off product,4,88,Rejected
+1038,2025-01-02,Burgerhub,24-12-29-04:40-12,Missing portions ,5,110,Resolved 
+1039,2025-01-02,Burgerhub,24-12-21-05:24-09,Missing portions ,3,66,Resolved 
+1040,2025-01-02,DFC,24-11-16-16:39-11,Missing portions ,3,66,Resolved 
+1041,2025-01-03,IQR,24-11-18-01:03-09,Missing portions ,4,88,Resolved 
+1042,2025-01-03,ChickHeaven,24-11-12-00:59-13,Missing portions ,2,44,Resolved 
+1043,2025-01-03,ChickHeaven,24-11-29-03:38-10,Off product,3,66,Rejected 
+1044,2025-01-03,IQR,24-11-31-06:41-15,Missing portions ,1,22,Resolved 
+1045,2025-01-03,Burgerhub,24-11-24-20:00-07,Missing portions ,2,44,Resolved 
+1046,2025-01-06,Burgerhub,24-11-17-09:31-07,Small pieces,3,66,Rejected 
+1047,2025-01-08,DFC,24-12-22-01:35-03,Missing portions ,2,44,Resolved 
+1048,2025-01-08,IQR,24-11-12-18:29-05,Missing portions ,5,70,Resolved 
+1049,2025-01-08,ChickHeaven,24-12-02-16:43-09,Missing portions ,3,66,Resolved 
+1050,2025-01-09,YumChicken,24-11-09-20:57-12,Off product,2,44,Escalated
+1051,2025-01-09,Burgerhub,24-12-18-16:56-11,Missing portions ,3,66,Resolved 
+1052,2025-01-09,DFC,24-11-31-08:11-03,Missing portions ,2,44,Resolved 
+1053,2025-01-09,YumChicken,24-12-07-12:33-09,Missing portions ,4,88,Resolved 
+1054,2025-01-09,Burgerhub,24-11-02-05:58-01,Missing portions ,4,88,Resolved 
+1055,2025-01-09,DFC,24-11-29-21:08-04,Missing portions ,3,66,Resolved 
+1056,2025-01-10,IQR,24-11-01-05:07-02,Off product,2,44,Escalated
+1057,2025-01-13,Burgerhub,24-11-02-02:33-13,Missing portions ,2,44,Resolved 
+1058,2025-01-13,Burgerhub,24-11-09-11:12-06,Missing portions ,3,66,Resolved 
+1059,2025-01-14,DFC,24-11-20-03:01-09,Small pieces,1,22,Resolved 
+1060,2025-01-14,IQR,24-12-17-03:28-13,Small pieces,2,44,Resolved 
+1061,2025-01-15,ChickHeaven,24-12-04-11:47-15,Small pieces,3,66,Resolved 
+1062,2025-01-15,ChickHeaven,24-12-26-18:13-12,Missing portions ,2,44,Resolved 
+1063,2025-01-15,IQR,24-12-19-01:15-13,Missing portions ,3,42,Resolved 
+1064,2025-01-16,Burgerhub,24-11-08-20:57-15,Missing portions ,4,56,Resolved 
+1065,2025-01-16,Burgerhub,24-12-17-17:57-05,Off product,2,28,Resolved 
+1066,2025-01-16,DFC,24-11-03-21:17-01,Small pieces,3,330,Resolved 
+1067,2025-01-17,IQR,24-11-09-04:58-05,Missing portions ,2,28,Resolved 
+1068,2025-01-17,ChickHeaven,24-12-26-05:50-13,Missing portions ,2,44,Resolved 
+1069,2025-01-20,YumChicken,24-11-28-22:30-08,Missing portions ,3,66,Resolved 
+1070,2025-01-20,Burgerhub,24-12-23-08:27-06,Missing portions ,2,44,Resolved 
+1071,2025-01-22,DFC,24-11-26-04:18-09,Off product,4,88,Rejected
+1072,2025-01-22,YumChicken,24-12-21-17:11-14,Missing portions ,2,44,Resolved 
+1073,2025-01-22,Burgerhub,24-12-19-12:31-10,Missing portions ,2,44,Resolved 
+1074,2025-01-24,DFC,24-12-05-14:36-15,Small pieces,3,66,Rejected 
+1075,2025-01-24,IQR,24-12-22-00:09-03,Missing portions ,4,88,Resolved 
+1076,2025-01-24,Burgerhub,24-11-06-02:41-12,Missing portions ,3,66,Resolved 
+1077,2025-01-27,Burgerhub,24-11-13-15:24-10,Missing portions ,2,44,Resolved 
+1078,2025-01-27,DFC,24-12-18-22:25-01,Off product,3,66,Resolved 
+1079,2025-01-27,IQR,24-11-27-22:26-01,Missing portions ,4,88,Resolved 
+1080,2025-01-27,ChickHeaven,24-12-19-18:02-01,Missing portions ,2,44,Resolved 
+1081,2025-01-28,ChickHeaven,24-11-15-22:12-15,Missing portions ,1,22,Resolved 
+1082,2025-01-28,IQR,24-12-06-11:04-05,Missing portions ,2,44,Rejected
+1083,2025-01-29,Burgerhub,24-11-12-05:36-02,Missing portions ,2,44,Resolved 
+1084,2025-01-31,Burgerhub,24-12-20-21:54-05,Off product,3,66,Resolved 
+1085,2025-01-31,DFC,24-11-13-10:33-02,Missing portions ,2,28,Resolved 
+1086,2025-01-31,IQR,24-11-29-18:50-02,Missing portions ,2,44,Resolved 
+1087,2025-02-03,ChickHeaven,24-11-26-22:02-14,Small pieces,1,22,Resolved 
+1088,2025-02-03,YumChicken,24-11-05-19:10-12,Small pieces,2,44,Rejected 
+1089,2025-02-04,Burgerhub,24-12-04-00:39-04,Small pieces,3,66,Resolved 
+1090,2025-02-04,DFC,24-11-21-01:52-04,Off product,1,22,Resolved 
+1091,2025-02-04,YumChicken,24-11-08-07:47-12,Small pieces,3,66,Rejected 
+1092,2025-02-05,Burgerhub,24-11-13-02:09-10,Small pieces,4,88,Resolved 
+1093,2025-02-05,DFC,24-11-07-21:33-03,Off product,5,110,Resolved 
+1094,2025-02-05,IQR,24-11-03-12:57-10,Off product,2,44,Resolved 
+1095,2025-02-06,Burgerhub,24-12-25-01:06-13,Off product,4,88,Escalated
+1096,2025-02-06,Burgerhub,24-11-02-09:19-03,Missing portions ,2,44,Resolved 
+1097,2025-02-06,DFC,24-11-10-12:16-01,Missing portions ,4,88,Resolved 
+1098,2025-02-07,IQR,24-12-25-07:59-05,Missing portions ,2,44,Resolved 
+1099,2025-02-10,ChickHeaven,24-12-20-04:36-07,Off product,1,14,Resolved 
+1100,2025-02-10,ChickHeaven,24-12-06-19:15-14,Missing portions ,3,42,Resolved 
+1101,2025-02-10,IQR,24-11-22-04:18-13,Missing portions ,4,56,Escalated
+1102,2025-02-10,Burgerhub,24-11-01-23:55-01,Missing portions ,3,66,Resolved 
+1103,2025-02-10,Burgerhub,24-12-15-16:18-08,Missing portions ,4,88,Resolved 
+1104,2025-02-10,DFC,24-11-29-20:23-10,Missing portions ,2,44,Resolved 
+1105,2025-02-10,IQR,24-12-16-00:39-08,Off product,1,22,Resolved 
+1106,2025-02-10,ChickHeaven,24-11-05-17:57-11,Missing portions ,3,66,Resolved 
+1107,2025-02-10,YumChicken,24-12-08-23:01-07,Missing portions ,2,44,Resolved 
+1108,2025-02-11,Burgerhub,24-11-11-03:54-05,Small pieces,3,66,Resolved 
+1109,2025-02-14,DFC,24-12-15-01:13-12,Missing portions ,1,22,Resolved 
+1110,2025-02-14,Burgerhub,24-11-06-03:57-05,Missing portions ,4,88,Resolved 
+1111,2025-02-14,Burgerhub,24-12-18-22:23-01,Missing portions ,2,44,Resolved 
+1112,2025-02-18,Burgerhub,24-11-28-11:55-08,Off product,1,22,Resolved 
+1113,2025-02-18,Burgerhub,24-12-08-01:22-08,Missing portions ,4,88,Resolved 
+1114,2025-02-18,DFC,24-12-28-02:53-06,Missing portions ,1,22,Resolved 
+1115,2025-02-19,IQR,24-11-24-08:42-15,Missing portions ,4,88,Resolved 
+1116,2025-02-20,Burgerhub,24-12-15-23:15-04,Missing portions ,2,44,Rejected
+1117,2025-02-21,Burgerhub,24-12-15-09:59-06,Missing portions ,5,70,Resolved 
+1118,2025-02-21,Burgerhub,24-12-18-8:43-15,Off product,1,22,Resolved 
+1119,2025-02-21,DFC,24-11-15-10:04-04,Missing portions ,3,66,Rejected 
+1120,2025-02-21,IQR,24-12-04-02:11-02,Missing portions ,2,44,Resolved 
+1121,2025-02-24,YumChicken,24-11-30-02:58-05,Small pieces,4,88,Resolved 
+1122,2025-02-24,Burgerhub,24-12-18-03:54-06,Small pieces,2,44,Resolved 
+1123,2025-02-24,DFC,24-11-15-18:16-01,Small pieces,1,22,Resolved 
+1124,2025-02-25,IQR,24-11-30-11:31-15,Missing portions ,3,66,Resolved 
+1125,2025-02-26,Burgerhub,24-12-10-00:07-08,Missing portions ,2,44,Resolved 
+1126,2025-02-26,Burgerhub,24-11-19-15:31-13,Missing portions ,3,66,Resolved 
+1127,2025-02-27,DFC,24-11-08-00:25-12,Off product,1,22,Rejected
+1128,2025-02-27,IQR,24-11-08-10:47-05,Missing portions ,3,66,Resolved 
+1129,2025-02-27,ChickHeaven,24-11-09-04:54-09,Missing portions ,2,44,Resolved 
+1130,2025-02-27,ChickHeaven,24-12-23-19:52-06,Missing portions ,3,66,Resolved 
+1131,2025-02-28,IQR,24-12-25-17:08-08,Missing portions ,2,44,Resolved 
+1132,2025-02-28,Burgerhub,24-11-18-22:21-06,Missing portions ,1,14,Resolved 
+1133,2025-02-28,Burgerhub,24-12-21-08:43-14,Off product,3,42,Rejected 
+1134,2025-03-03,DFC,24-11-06-20:49-13,Small pieces,4,440,Resolved 
+1135,2025-03-03,IQR,24-12-21-03:25-11,Missing portions ,1,22,Resolved 
+1136,2025-03-03,ChickHeaven,24-12-30-11:54-03,Small pieces,3,66,Rejected 
+1137,2025-03-04,YumChicken,24-12-03-23:26-10,Missing portions ,2,44,Resolved 
+1138,2025-03-04,Burgerhub,24-12-03-11:49-07,Missing portions ,3,66,Resolved 
+1139,2025-03-05,DFC,24-12-18-16:25-07,Missing portions ,2,44,Resolved 
+1140,2025-03-06,YumChicken,24-11-23-22:56-03,Off product,7,154,Escalated
+1141,2025-03-06,Burgerhub,24-11-04-20:17-02,Missing portions ,2,44,Resolved 
+1142,2025-03-07,DFC,24-12-22-00:26-05,Missing portions ,3,66,Resolved 
+1143,2025-03-07,IQR,24-12-10-16:17-08,Missing portions ,1,22,Resolved 
+1144,2025-03-07,Burgerhub,24-12-30-01:15-03,Missing portions ,2,44,Resolved 
+1145,2025-03-10,Burgerhub,24-11-24-01:18-13,Missing portions ,3,66,Resolved 
+1146,2025-03-10,DFC,24-12-11-00:28-10,Off product,16,352,Escalated
+1147,2025-03-10,IQR,24-12-22-03:37-07,Missing portions ,2,44,Resolved 
+1148,2025-03-11,ChickHeaven,24-11-06-17:00-02,Missing portions ,3,66,Resolved 
+1149,2025-03-12,ChickHeaven,24-11-11-20:58-06,Small pieces,2,28,Resolved 
+1150,2025-03-12,IQR,24-11-28-00:17-07,Small pieces,1,22,Resolved 
+1151,2025-03-12,Burgerhub,24-12-17-11:59-14,Small pieces,3,66,Resolved 
+1152,2025-03-17,Burgerhub,24-11-08-19:17-10,Off product,16,352,Escalated
+1153,2025-03-17,DFC,24-12-17-21:20-06,Small pieces,1,22,Resolved 
+1154,2025-03-17,IQR,24-12-22-05:12-13,Small pieces,2,44,Resolved 
+1155,2025-03-17,ChickHeaven,24-11-30-04:03-15,Off product,3,66,Rejected
+1156,2025-03-17,YumChicken,24-11-23-22:10-03,Off product,2,44,Rejected
+1157,2025-03-17,Burgerhub,24-11-08-07:24-14,Off product,3,66,Rejected
+1158,2025-03-17,DFC,24-11-20-04:12-14,Missing portions ,2,44,Resolved 
+1159,2025-03-18,YumChicken,24-12-06-18:05-07,Missing portions ,3,66,Resolved 
+1160,2025-03-18,Burgerhub,24-12-14-17:19-15,Missing portions ,4,88,Resolved 
+1161,2025-03-19,DFC,24-12-24-01:56-13,Missing portions ,3,66,Rejected
+1162,2025-03-19,IQR,24-11-21-14:14-06,Off product,16,352,Escalated
+1163,2025-03-19,Burgerhub,24-12-09-11:21-09,Missing portions ,2,44,Resolved 
+1164,2025-03-20,Burgerhub,24-12-05-10:17-06,Missing portions ,4,56,Rejected 
+1165,2025-03-21,DFC,24-11-23-19:37-12,Small pieces,4,440,Resolved 
+1166,2025-03-21,IQR,24-12-11-22:50-02,Small pieces,3,42,Resolved 
+1167,2025-03-21,ChickHeaven,24-11-09-10:05-05,Small pieces,4,88,Resolved 
+1168,2025-03-21,ChickHeaven,24-11-02-02:10-05,Off product,2,44,Resolved 
+1169,2025-03-21,IQR,24-12-18-21:30-15,Small pieces,3,66,Rejected 
+1170,2025-03-22,YumChicken,24-11-07-18:42-04,Small pieces,2,44,Rejected 
+1171,2025-03-22,Burgerhub,24-11-11-23:46-09,Off product,16,352,Escalated
+1172,2025-03-25,DFC,24-12-27-22:19-07,Off product,4,440,Escalated
+1173,2025-03-25,IQR,24-11-21-22:27-03,Off product,24,528,Escalated
+1174,2025-03-25,ChickenIkhaya,24-12-13-01:56-12,Missing portions ,2,44,Resolved 
+1175,2025-03-25,ChickenIkhaya,24-12-31-19:48-05,Missing portions ,4,88,Rejected 
+1176,2025-03-25,YumChicken,24-11-12-10:05-06,Missing portions ,3,66,Rejected
+1177,2025-03-26,YumChicken,24-12-17-02:16-04,Missing portions ,2,44,Resolved 
+1178,2025-03-27,IQR,24-12-01-01:25-13,Missing portions ,3,66,Resolved 
+1179,2025-03-28,YumChicken,24-11-18-10:22-12,Small pieces,3,66,Rejected 
+1180,2025-03-28,IQR,24-11-12-00:57-01,Missing portions ,2,44,Resolved 
+1181,2025-03-28,YumChicken,24-12-29-12:21-07,Missing portions ,2,28,Resolved 
+1182,2025-03-31,ChickenIkhaya,24-12-27-20:40-07,Missing portions ,1,22,Resolved 
